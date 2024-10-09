@@ -1,2 +1,2 @@
 # 03trabajoenequipo
-trabajo cont trello
+trabajo con trello

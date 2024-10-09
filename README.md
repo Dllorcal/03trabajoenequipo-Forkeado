@@ -1,2 +1,3 @@
 # 03trabajoenequipo
-trabajo con trello
+## Trabajo hecho por David Juan y Felipe
+### 09/10/2024

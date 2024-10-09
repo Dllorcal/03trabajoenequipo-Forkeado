@@ -1,3 +1,3 @@
-# 03trabajoenequipo
+**# 03trabajoenequipo**
 ## Trabajo hecho por David Juan y Felipe
 ### 09/10/2024

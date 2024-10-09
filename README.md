@@ -10,3 +10,6 @@ Para hacer una tabla:
 | Fecha | Que modificacion se ha realizado | Quien la ha modificado |
 | ----------- | ----------- |  ----------- |
 | 09/10/2024 | Añadido una tabala | Felipe Sastre |
+| 09/102024 | Añadido una fila a la tabla | David Llorente |
+
+
